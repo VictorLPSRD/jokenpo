@@ -10,12 +10,13 @@ Este é um projeto simples de **Jokenpô** (Pedra, Papel e Tesoura) implementado
 - Veja o resultado da rodada: vitória, derrota ou empate.
 - Contagem de pontos para o jogador e o computador.
 
-## Como executar
+## 🧩 Pré-requisitos
 
-Para executar o projeto, você precisa ter o [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html) instalado em seu sistema. Siga as instruções abaixo para rodar o programa.
+- **Java JDK 8 ou superior.**
+- Biblioteca padrão do Java para criptografia e codificação Base64.
 
-### Passo 1: Clone o repositório
+## 🚀 Como Executar
 
-```bash
-git clone https://github.com/seu-usuario/jokenpo-java.git
-cd jokenpo-java
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/projeto-criptografia.git
